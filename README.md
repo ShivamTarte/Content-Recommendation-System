@@ -1,4 +1,4 @@
-# Content-Recommendation-System
+# Content-Recommendation-System(SBERT)
 This is  project named LECR Recommendation system based on kaggle competition i performed and succesfully submitted by using (SBERT)sentence transformer,Annoy index and Fuzzy logic.It provided with topics with its parents and content to match to each other.Recommend different contents based on topics and its parent
 An example of a branch of a topic tree is: Secondary Education >> Ordinary Level >> Mathematics >> Further Learning >> Activities >> Trigonometry. The leaf topic in this branch might then contain (be correlated with) a content item such as a video entitled Polar Coordinates.
 
