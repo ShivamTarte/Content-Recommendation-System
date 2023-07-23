@@ -6,6 +6,8 @@ Welcome to the LECR Recommendation System project! This repository contains the 
 
 The goal of this competition was to develop an accurate and efficient model that matches educational content to specific topics in a curriculum. The provided educational materials are organized into various topic taxonomies and cover a wide range of subjects, particularly in STEM (Science, Technology, Engineering, and Mathematics). The challenge was to recommend relevant content items for each topic based on its parent topics.
 
+An example of a branch of a topic tree is: Secondary Education >> Ordinary Level >> Mathematics >> Further Learning >> Trigonometry. The leaf topic in this branch might then contain (be correlated with) a content item such as a video entitled Polar Coordinates or other Mathematics topics.
+
 ## Algorithm and Techniques
 
 The Recommendation System is built using the following techniques:
